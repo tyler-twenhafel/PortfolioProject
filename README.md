@@ -19,7 +19,6 @@ By Tyler Twenhafel
 
 # What projects I will be using #
 
-1. 
-2. 
-3. 
-4. 
+1. Form-A-Story
+2. Piano Keys
+3. Rick and Morty Club Website
